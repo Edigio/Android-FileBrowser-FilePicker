@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">File Browser</string>
+    <string name="cut">Taglia</string>
+    <string name="refresh">Refresh</string>
+    <string name="paste">Incolla</string>
+    <string name="copy">Copia</string>
+    <string name="filter">Filtra</string>
+    <string name="sort">Ordina</string>
+    <string name="more">Altro</string>
+    <string name="delete">Cancella</string>
+    <string name="rename">Rinomina</string>
+    <string name="share">Condividi</string>
+    <string name="new_folder">Nuova Cartella</string>
+    <string name="root">Root</string>
+    <string name="back">Indietro</string>
+    <string name="show_hidden_folders">Mostra cartelle nascoste</string>
+    <string name="properties">Proprietà</string>
+    <string name="internal_storage" translatable="false">Int</string>
+    <string name="external_storage" translatable="false">Ext</string>
+    <string name="cancel">Cancella</string>
+    <string name="selectall">Seleziona tutto</string>
+    <string name="showfoldersize">Mostra dimensione cartelle</string>
+    <string name="showhiddenfolder">Mostra cartelle nascoste</string>
+    <string name="chooseitems">Scegli elementi</string>
+    <string name="search">Cerca</string>
+    <string name="searchfiles">Cerca Files</string>
+    <string name="ok">Ok</string>
+    <string name="filter_only">Filtra solo</string>
+    <string name="sort_by">Ordina per</string>
+    <string name="file_info">%s Ultima modifica: %s</string>
+    <string name="read_only"> (Solo lettura)</string>
+    <!-- Folder creation-->
+    <string name="folder_creation_error">Errore durante la creazione della cartella</string>
+    <string name="permission_error">No hai permessi scrittura</string>
+    <!-- File deletion-->
+    <string name="delete_dialog_title">Cancella files</string>
+    <string name="delete_dialog_message">Sei sicuro di voler cancellare %d elementi?</string>
+    <string name="delete_progress">Eliminazione attendere&#8230;</string>
+    <string name="delete_error">Errore durante la rimozione della cartella</string>
+    <string name="no_items_selected">Nessun elemento selezionato</string>
+    <!-- Paste files-->
+    <string name="wait">Attendere&#8230;</string>
+    <string name="copying">Copiando %s</string>
+    <string name="moving">Spostando %s</string>
+    <string name="pasting_error">Un errore durante incolla</string>
+    <!--Rename-->
+    <string name="rename_dialog_title">Rinomina</string>
+    <string name="rename_error">An error occurred while renaming</string>
+    <!-- getProperties-->
+    <string name="properties_title">Proprietà</string>
+    <string name="directory">Cartella</string>
+    <string name="file">File</string>
+    <string name="file_type">Tipo: %s \n\n</string>
+    <string name="file_size">Dimensione: %s \n\n</string>
+    <string name="file_modified">Ultima modifica %s \n\n</string>
+    <string name="file_path">Path %s</string>
+    <string name="file_type_multiple">Multipli Files \n\n</string>
+    <string name="file_type_plain">Tipo:</string>
+    <string name="property_error">Could Not Compute Properties</string>
+    <!-- sharing -->
+    <string name="sharing_no_app">Nessuna app per la condivisione</string>
+    <string name="selected_items">Selezionati %d elementi</string>
+    <string name="selection_error_single">Selezionare un solo elemento</string>
+
+    <string name="error_common">Errore</string>
+    <string name="error_no_permissions">Alcuni permessi non sono stati abilitati</string>
+    <string name="no_operation_error">Nessuna operazione</string>
+    <string name="no_files_paste">Nessun file da incollare</string>
+    <string name="no_app_to_handle">Nessuna app per aprire questo file</string>
+    <string name="select_multiple">Seleziona più files</string>
+    <string name="external_storage_error">Memoria esterna non trovata</string>
+    <string name="unselectall">Deseleziona tutto</string>
+    <string-array name="filter_options">
+        <item>Files</item>
+        <item>Cartelle</item>
+        <item>Tutto</item>
+    </string-array>
+
+    <string-array name="sort_options">
+        <item>Nome</item>
+        <item>Dimensione</item>
+        <item>Ultima modifica</item>
+    </string-array>
+
+</resources>
